@@ -2,3 +2,7 @@ Chris Resolusi:
 - Belajar Laravel
 - Belajar Javascript
 - Membuat Project
+- Membuat StartUp
+- Mendapatkan Investor
+- Menambahkan MerchShop 
+- Collaboration
