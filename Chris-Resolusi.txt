@@ -1,0 +1,4 @@
+Chris Resolusi:
+- Belajar Laravel
+- Belajar Javascript
+- Membuat Project
